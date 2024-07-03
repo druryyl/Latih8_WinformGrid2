@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latih8_WinformGrid2", "Latih8_WinformGrid2.csproj", "{EAC49136-27E6-4FEA-B15F-DECFFEAE446A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAC49136-27E6-4FEA-B15F-DECFFEAE446A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAC49136-27E6-4FEA-B15F-DECFFEAE446A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAC49136-27E6-4FEA-B15F-DECFFEAE446A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAC49136-27E6-4FEA-B15F-DECFFEAE446A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C0DC32D-E431-4466-9BC8-2E5EAAF24FAD}
+	EndGlobalSection
+EndGlobal
